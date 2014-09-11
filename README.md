@@ -29,4 +29,5 @@ As a user, I want to know the prime factors of a natural number.
 
 We've included specs to test your code using RSpec.
 
-* To run the tests, open `spec/spec-runner.html` in your browser
+* To run the tests, you have to install the rspec gem, `gem install rspec`
+* Then run `rspec` in the terminal
